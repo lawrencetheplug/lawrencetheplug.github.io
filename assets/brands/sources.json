@@ -1,0 +1,14 @@
+{
+  "purpose": "Decorative references to tools used; SVG wordmarks retain vector lettering.",
+  "light": {
+    "figma": "https://www.vectorlogo.zone/logos/figma/figma-ar21.svg",
+    "wordpress": "https://commons.wikimedia.org/wiki/File:WordPress_logo.svg",
+    "adobe": "https://commons.wikimedia.org/wiki/File:Adobe_Corporate_logo.svg",
+    "meta": "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo.svg",
+    "vscode": ["https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg", "https://code.visualstudio.com/assets/branding/visual-studio-code-icons.zip"],
+    "claude": "https://github.com/pheralb/svgl/blob/main/static/library/claude-ai-wordmark-icon_light.svg",
+    "google-analytics": "https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg",
+    "blender": "https://www.vectorlogo.zone/logos/blender/blender-ar21.svg"
+  },
+  "dark": "Local monochrome derivatives with preserved shape separation and negative space; VS Code uses Microsoft's supplied alternate icon. No runtime external asset requests."
+}
